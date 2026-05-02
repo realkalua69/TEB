@@ -1,0 +1,4 @@
+residue: ARG
+pdb_path: data/pdb_files
+workers: 4
+batch_count: 1000
